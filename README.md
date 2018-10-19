@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#how-to-use">Installation</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#related">Related</a> 
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
