@@ -3,12 +3,12 @@
 <h4 align="center">A simple IOS app built with <a href="https://swift.org" target="_blank">Swift</a> and <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a>.</h4>
 
 <p align="center">
+  <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">Installation</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> 
+  <a href="#credits">Credits</a> 
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/amkhuma/Swift-Companion/blob/master/Images/Profile.png) ![screenshot](https://github.com/amkhuma/Swift-Companion/blob/master/Images/Search.png)
 
 ## Key Features
 
@@ -16,7 +16,7 @@
 * Custom TableView Cells
 * Api Requests
 * [42 API](https://api.intra.42.fr/apidoc)
-* Sroll View
+* Scroll View
 
 ## How To Use
 
