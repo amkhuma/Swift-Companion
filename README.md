@@ -8,7 +8,7 @@
   <a href="#credits">Credits</a> 
 </p>
 
-![screenshot](https://github.com/amkhuma/Swift-Companion/blob/master/Images/Profile.png) ![screenshot](https://github.com/amkhuma/Swift-Companion/blob/master/Images/Search.png)
+![screenshot](https://github.com/amkhuma/Swift-Companion/blob/master/Images/Search.png)  ![screenshot](https://github.com/amkhuma/Swift-Companion/blob/master/Images/Profile.png) ![screenshot](https://github.com/amkhuma/Swift-Companion/blob/master/Images/projects.png) 
 
 ## Key Features
 
