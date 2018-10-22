@@ -33,7 +33,7 @@ $ cd Swift-Companion
 $ Pod install
 
 # Run the app
-$ open open Swifty-Companion.xcworkspace
+$ open Swifty-Companion.xcworkspace
 ```
 
 ## Credits
