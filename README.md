@@ -39,5 +39,5 @@ $ open Swifty-Companion.xcworkspace
 ## Credits
 
 - [The Swift Guy](http://theswiftguy.com)
-- [Lets Build That App](https://nodejs.org/)
+- [Lets Build That App](https://www.letsbuildthatapp.com)
 - [Mpho Kgosisejo](https://mpho-kgosisejo.github.io/portfolio/)
