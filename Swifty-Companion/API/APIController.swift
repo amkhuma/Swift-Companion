@@ -12,8 +12,8 @@ import Foundation
 public class APIController
 {
     static var TOKEN : String = ""
-    let key = "2b66c905c2ef8b1032d8107cb2c83dcadc9395d1fa7ae7b27a5c50a88a754bc1"
-    let secret = "3a6f36300858ffed7e87efba19b5f14499f0d24ae458f4f216742b3502b58729"
+    let key = "xxxxxxxxxxxxxxxxxxxxxx"
+    let secret = "xxxxxxxxxxxxxxxxxxxxxx"
     static var USER : User!
 
     
